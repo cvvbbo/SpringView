@@ -1,3 +1,7 @@
+
+这个例子里面有，讲下拉刷新的各种模式的区别到底是什么，比如说什么是 overlap（重叠）模式，follow（跟随模式），drag（拖拽模式），安卓原生的swiperefreashlayout就是属于拖拽模式，一般的下拉刷新都是属于跟随模式，像扣扣聊天列表那个
+
+======
 More, please visit：[My CSDN](http://blog.csdn.net/liaoinstan/article/details/51023907)  　　　　apk demo：[download](https://github.com/liaoinstan/SpringView/blob/master/apk/demo-release.apk?raw=true)  　　　　中文文档：[中文文档](https://github.com/liaoinstan/SpringView/blob/master/README_CN.md)
 
 SpringView
